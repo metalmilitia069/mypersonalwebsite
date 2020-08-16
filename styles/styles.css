@@ -1,0 +1,200 @@
+h1
+{
+
+}
+
+h2
+{
+  font-family: "Noto Sans";
+  text-align: center;
+  padding-top: 5%;
+}
+
+h3
+{
+  font-family: "Noto Sans";
+}
+
+p
+{
+  font-family: "Noto Sans";
+}
+
+footer
+{
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+#title
+{
+  background-color: black;
+}
+
+.logoleo
+{
+  margin: 30% auto;
+  width: 60%;
+}
+
+.logo-img
+{
+  width: 100%;
+}
+
+.title-main
+{
+  text-align: center;
+  display: block;
+  background-size: cover;
+}
+
+/* EDUCATION SECTION */
+#education
+{
+  /* background-color: #585570; */
+
+}
+.classEduH2
+{
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.educationBox
+{
+  margin-top: 5%;
+
+  text-align: center;
+  font-weight: 600;
+}
+
+.education-div
+{
+  text-align: center;
+  display: block;
+  background-size: cover;
+  margin-bottom: 5%;
+}
+
+.educationImg
+{
+  width: 20%;
+}
+
+.eduHeader
+{
+  font-weight: 700;
+  padding-top: 7%;
+}
+
+/* Video Game Projects */
+#gameProjects
+{
+  background-color: black;
+}
+.classProjH2
+{
+  font-weight: 900;
+  font-size: 3rem;
+  color: white;
+}
+.project-div
+{
+  text-align: center;
+}
+
+.proj-row
+{
+
+}
+
+.projectBox
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.projImg
+{
+  width: 80%;
+}
+
+.carousel-div
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.carousel-img-video
+{
+  width: 60%;
+  text-align: center;
+}
+
+.button-div
+{
+  text-align: center;
+}
+
+.button-object
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.icon-size
+{
+  /* width: 10%;
+  margin-right: 5%; */
+  width: 30%;
+  /* margin-bottom: 12% */
+}
+
+/* Skills Highlights */
+.skills-div
+{
+  margin-top: 10%;
+}
+
+.skill-item-div
+{
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.skill-icon-setup
+{
+  margin-bottom: 5%;
+}
+
+.skill-text-margins
+{
+  margin-top: 10%;
+}
+
+/* 3D MODELING */
+#ModelingExamples
+{
+  background-color: black;
+}
+
+.carousel-div-modeling
+{
+  margin-top: 5%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+/* CONTACT SECTION */
+.contact-div
+{
+  margin-top: 10%;
+  text-align: center;
+}
+
+.contact-icon-setup:hover
+{
+  color: green;
+}

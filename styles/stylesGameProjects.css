@@ -1,0 +1,140 @@
+h1
+{
+  font-family: "Noto Sans";
+  text-align: center;
+  padding-top: 5%;
+}
+
+h2
+{
+  font-family: "Noto Sans";
+  text-align: center;
+  padding-top: 5%;
+}
+
+h3
+{
+  font-family: "Noto Sans";
+}
+
+p
+{
+  font-family: "Noto Sans";
+}
+
+footer
+{
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.desc
+{
+  text-decoration: underline;
+}
+
+/* iframe
+{
+  width: 60%;
+  height: 200%;
+} */
+
+/* Title - Project 01 - Space Shooter 2.5D */
+.title-div
+{
+  background-color: black;
+  margin-bottom: 5%;
+}
+
+.section01-text
+{
+  color: white;
+  margin-bottom: 5%;
+}
+
+.carousel-img-video
+{
+  width: 60%;
+}
+
+.video-size-setup
+{
+  width: 70%;
+  /* text-align: center; */
+  /* background-size: cover; */
+}
+
+.img-video
+{
+  text-align: center;
+  display: block;
+  background-size: cover;
+  margin-bottom: 5%;
+}
+
+.carousel-div
+{
+  text-align: center;
+  margin-bottom: 10%;
+
+}
+
+.projectDetail-h3
+{
+  color: white;
+}
+
+.projectDetail-p
+{
+  text-align: left;
+  color: white;
+}
+
+.carousel-img-video
+{
+  /* text-align: center; */
+}
+
+/* Title - Project 02 - Space Shooter 2D */
+.section02-text
+{
+  color: black;
+  margin-bottom: 5%;
+}
+
+.titleWhite-div
+{
+  background-color: white;
+  margin-bottom: 5%;
+}
+
+.projectDetailBlack-h3
+{
+  color: black;
+}
+
+.projectDetailBlack-p
+{
+  text-align: left;
+  color: black;
+}
+
+
+
+/* a:hover
+{
+  color: #EAF6F6;
+} */
+
+
+/* CONTACT SECTION */
+.contact-div
+{
+  margin-top: 10%;
+  text-align: center;
+}
+
+.contact-icon-setup:hover
+{
+  color: green;
+}
